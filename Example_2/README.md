@@ -1,4 +1,4 @@
-# Example_2 — Java Unit Testing with JUnit 5
+# Example_2 — Java Unit Testing with JUnit .. 5
 
 ## Overview
 
